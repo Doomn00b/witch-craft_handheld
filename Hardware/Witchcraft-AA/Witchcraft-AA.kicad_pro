@@ -637,7 +637,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../CAD-witchcraft/Witchcraft-pcb.step",
       "vrml": "../CAD-witchcraft/Witchcraft-AA.wrl"
     },
     "page_layout_descr_file": ""
