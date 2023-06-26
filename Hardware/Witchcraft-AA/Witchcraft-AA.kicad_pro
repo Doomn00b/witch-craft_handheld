@@ -628,6 +628,10 @@
       {
         "netclass": "Twelve_Volt_P",
         "pattern": "+20VD"
+      },
+      {
+        "netclass": "Three_Volt",
+        "pattern": "+3.88V"
       }
     ]
   },
