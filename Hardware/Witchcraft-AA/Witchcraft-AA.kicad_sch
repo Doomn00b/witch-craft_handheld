@@ -13,13 +13,13 @@
   )
 
 
-  (text "Specs:\n--------\n\n4x USB-C\n\n2x M.2\n\n1x PCIe x8 card-slot\n\n1x SDcard\n\n\n--------\nBattery:\n--------\nSamsung Galaxy S22 ultra's 5000 mAh, 3.86V\n"
+  (text "Specs:\n--------\n\n4x USB-C\n\n2x M.2\n\n1x PCIe x4 card-slot\n\n1x SDcard\n\n\n--------\nBattery:\n--------\nSamsung Galaxy S22 ultra's 5000 mAh, 3.86V\n"
     (at 25.4 101.6 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0d5e27d6-f242-4708-b64a-dc8754b2e567)
   )
   (text "Battery-cell manufacturers:\n--------------------------\nPanasonic/Sanyo \nSamsung \nLG \nSony\nSK Innovation"
-    (at 27.94 176.53 0)
+    (at 22.86 177.8 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid aea1a5c2-08ea-4634-b046-3a988846cadb)
   )
