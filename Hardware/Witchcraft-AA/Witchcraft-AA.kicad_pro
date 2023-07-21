@@ -704,6 +704,10 @@
     [
       "3ceb6544-8dac-4d2e-9657-64f1c5c84f1c",
       "PERIPHERALS"
+    ],
+    [
+      "0adc2254-cd48-4ec0-9f09-a12e153bb05b",
+      "STORAGE"
     ]
   ],
   "text_variables": {}

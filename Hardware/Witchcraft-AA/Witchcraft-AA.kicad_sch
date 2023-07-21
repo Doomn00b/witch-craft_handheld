@@ -29,6 +29,23 @@
     (uuid f15f4f09-c228-4d95-8b9a-4743278412f1)
   )
 
+  (sheet (at 209.55 74.93) (size 19.05 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0adc2254-cd48-4ec0-9f09-a12e153bb05b)
+    (property "Sheetname" "STORAGE" (at 209.55 74.2184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "storage_Witch-C.kicad_sch" (at 209.55 99.6446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Witchcraft-AA"
+        (path "/0a9e17f7-244d-438d-bc29-a2e2d0831441" (page "7"))
+      )
+    )
+  )
+
   (sheet (at 243.84 35.56) (size 20.32 24.13) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
