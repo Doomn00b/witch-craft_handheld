@@ -380,7 +380,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "simulation_model_issue": "error",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -556,84 +556,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "Five_Volt",
-        "pattern": "+5V"
-      },
-      {
-        "netclass": "Five_Volt",
-        "pattern": "+5VP"
-      },
-      {
-        "netclass": "Five_Volt",
-        "pattern": "/POWER/VCC_DAC"
-      },
-      {
-        "netclass": "Five_Volt",
-        "pattern": "/POWER/VCC_ROM"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "/GND{slash}SBU2"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "GND"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "GND2"
-      },
-      {
-        "netclass": "Twelve_Volt_N",
-        "pattern": "-12V"
-      },
-      {
-        "netclass": "Twelve_Volt_N",
-        "pattern": "-12VA"
-      },
-      {
-        "netclass": "Power OK",
-        "pattern": "/PWR_OK"
-      },
-      {
-        "netclass": "Standby",
-        "pattern": "+5VSB"
-      },
-      {
-        "netclass": "Three_Volt",
-        "pattern": "+3.3V"
-      },
-      {
-        "netclass": "Three_Volt",
-        "pattern": "/PROCESSOR/Vbatt"
-      },
-      {
-        "netclass": "Twelve_Volt_P",
-        "pattern": "+12V"
-      },
-      {
-        "netclass": "Twelve_Volt_P",
-        "pattern": "+12VA"
-      },
-      {
-        "netclass": "Twelve_Volt_P",
-        "pattern": "+20V"
-      },
-      {
-        "netclass": "Twelve_Volt_P",
-        "pattern": "+20VDC"
-      },
-      {
-        "netclass": "Twelve_Volt_P",
-        "pattern": "+20VD"
-      },
-      {
-        "netclass": "Three_Volt",
-        "pattern": "+3.88V"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
@@ -670,8 +593,18 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
+    "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
