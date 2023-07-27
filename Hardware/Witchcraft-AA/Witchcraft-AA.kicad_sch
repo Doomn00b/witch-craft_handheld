@@ -28,6 +28,11 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid f15f4f09-c228-4d95-8b9a-4743278412f1)
   )
+  (text "Blower-cooler:\nhttps://www.buerklin.com/en/p/sepa/radial-fans/hy60q05ap/82B316/\nHY60Q12PSE40A"
+    (at 89.535 137.16 0)
+    (effects (font (size 1.524 1.524)) (justify left bottom))
+    (uuid f28dac2a-17d7-4e0e-baec-e5958ac36c89)
+  )
 
   (sheet (at 209.55 74.93) (size 19.05 24.13) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
