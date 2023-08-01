@@ -449,6 +449,17 @@
     (uuid 9c89bed8-5177-4711-b2ec-39d423722744)
   )
 
+  (rectangle (start 241.3 26.67) (end 338.455 130.175)
+    (stroke (width 0) (type dash))
+    (fill (type none))
+    (uuid d01da537-5a9d-4031-a243-c69bbf159616)
+  )
+
+  (text "M.2 connector" (at 241.3 26.035 0)
+    (effects (font (size 1.524 1.524)) (justify left bottom))
+    (uuid b817fabd-5d38-45da-8036-a933a758d507)
+  )
+
   (symbol (lib_id "LRJ-parts:Amphenol_10157930") (at 290.83 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 21765e40-dd6d-4f8c-ac1f-9a01bf22e5a1)
@@ -458,7 +469,7 @@
     (property "Value" "10157930" (at 307.34 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "LRJ:Amphenol_10157930_PCI_Express_M.2_2280_less-court" (at 290.83 57.15 0)
+    (property "Footprint" "LRJ:Amphenol_10157930_PCI_Express_M.2_2230_less-court" (at 290.83 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/ssio/ssio_pcie_m2.pdf" (at 389.89 81.28 0)

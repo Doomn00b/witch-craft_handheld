@@ -28,8 +28,8 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid f15f4f09-c228-4d95-8b9a-4743278412f1)
   )
-  (text "Blower-cooler:\nhttps://www.buerklin.com/en/p/sepa/radial-fans/hy60q05ap/82B316/\nHY60Q12PSE40A"
-    (at 89.535 137.16 0)
+  (text "Blower-cooler:\nhttps://www.buerklin.com/en/p/sepa/radial-fans/hy60q05ap/82B316/\nHY60Q12PSE40A\n\nhttps://detail.1688.com/offer/583163788768.html&scm=1007.45324.348050.0&pvid=69bee12b-f085-4bc8-93a7-4adfe971f483?spm=a262cb.19918180.ljxo5qvc.2.1fdf3a6eostrMb&file=583163788768.html&scm=1007.45324.348050.0&pvid=69bee12b-f085-4bc8-93a7-4adfe971f483"
+    (at 65.405 140.97 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid f28dac2a-17d7-4e0e-baec-e5958ac36c89)
   )
@@ -39,7 +39,7 @@
     (fill (color 0 0 0 0.0000))
     (uuid 0adc2254-cd48-4ec0-9f09-a12e153bb05b)
     (property "Sheetname" "STORAGE" (at 209.55 74.2184 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+      (effects (font (size 1.27 1.27) bold) (justify left bottom))
     )
     (property "Sheetfile" "storage_Witch-C.kicad_sch" (at 209.55 99.6446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
