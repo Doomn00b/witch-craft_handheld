@@ -1,0 +1,121 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 0a9e17f7-244d-438d-bc29-a2e2d0831441)
+
+  (paper "A3")
+
+  (title_block
+    (date "2023-05-06")
+    (rev "A-A")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 209.55 74.93) (size 19.05 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0adc2254-cd48-4ec0-9f09-a12e153bb05b)
+    (property "Sheetname" "STORAGE" (at 209.55 74.2184 0)
+      (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "storage_FP8-test.kicad_sch" (at 209.55 99.6446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "FP8-testboard-AA"
+        (path "/0a9e17f7-244d-438d-bc29-a2e2d0831441" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 243.84 35.56) (size 20.32 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3ceb6544-8dac-4d2e-9657-64f1c5c84f1c)
+    (property "Sheetname" "PERIPHERALS" (at 243.84 34.8484 0)
+      (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "peripherals_FP8-test.kicad_sch" (at 243.84 60.2746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "FP8-testboard-AA"
+        (path "/0a9e17f7-244d-438d-bc29-a2e2d0831441" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 209.55 35.56) (size 19.05 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 482dcbb8-a1e8-4ad7-8226-4a9c7274c27b)
+    (property "Sheetname" "MEMORY" (at 209.55 34.8484 0)
+      (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "memory_FP8-test.kicad_sch" (at 209.55 60.2746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "FP8-testboard-AA"
+        (path "/0a9e17f7-244d-438d-bc29-a2e2d0831441" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 102.87 35.56) (size 20.32 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 68f9a904-c76e-4aa2-95b6-7867b12e1a2b)
+    (property "Sheetname" "POWER" (at 102.87 34.8484 0)
+      (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "Power_FP8-test.kicad_sch" (at 102.87 60.2746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "FP8-testboard-AA"
+        (path "/0a9e17f7-244d-438d-bc29-a2e2d0831441" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 138.43 34.925) (size 17.78 24.765) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bf5116aa-270f-433e-9c93-6813e81db6d9)
+    (property "Sheetname" "USB" (at 138.43 34.2134 0)
+      (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "USB_FP8-test.kicad_sch" (at 138.43 60.2746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "FP8-testboard-AA"
+        (path "/0a9e17f7-244d-438d-bc29-a2e2d0831441" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 172.085 34.925) (size 20.955 24.765) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e495a56e-82ee-477b-9cf2-fafa80ac9050)
+    (property "Sheetname" "SoC" (at 172.085 34.2134 0)
+      (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "APU_FP8-test.kicad_sch" (at 172.085 60.2746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "FP8-testboard-AA"
+        (path "/0a9e17f7-244d-438d-bc29-a2e2d0831441" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
