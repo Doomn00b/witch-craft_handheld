@@ -18,6 +18,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0d5e27d6-f242-4708-b64a-dc8754b2e567)
   )
+  (text "OLED-screens:\nGoogle Pixel 2\nSamsung Galaxy A3 (2017)\nGL497AMC01B (china)\n"
+    (at 124.46 159.385 0)
+    (effects (font (size 1.524 1.524)) (justify left bottom))
+    (uuid 1f5bad8a-b65d-4f71-8bb2-2ba2de2aa41b)
+  )
   (text "Battery-cell manufacturers:\n--------------------------\nPanasonic/Sanyo \nSamsung \nLG \nSony\nSK Innovation"
     (at 22.86 177.8 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
