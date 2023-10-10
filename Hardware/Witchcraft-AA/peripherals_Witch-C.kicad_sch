@@ -5,6 +5,7 @@
   (paper "A3")
 
   (title_block
+    (title "WITCHCRAFT HANDHELD")
     (date "2023-05-06")
     (rev "A-A")
   )

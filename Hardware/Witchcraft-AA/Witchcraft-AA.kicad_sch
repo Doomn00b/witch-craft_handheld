@@ -5,6 +5,7 @@
   (paper "A3")
 
   (title_block
+    (title "WITCHCRAFT HANDHELD")
     (date "2023-05-06")
     (rev "A-A")
   )
@@ -52,6 +53,23 @@
     (instances
       (project "Witchcraft-AA"
         (path "/0a9e17f7-244d-438d-bc29-a2e2d0831441" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 243.84 74.93) (size 20.32 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 11919705-866a-42ba-a5dc-d84e4b5dcebc)
+    (property "Sheetname" "PCIe" (at 243.84 74.2184 0)
+      (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "PCIe_Witch-C.kicad_sch" (at 243.84 99.6446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Witchcraft-AA"
+        (path "/0a9e17f7-244d-438d-bc29-a2e2d0831441" (page "8"))
       )
     )
   )

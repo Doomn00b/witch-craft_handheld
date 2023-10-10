@@ -568,6 +568,10 @@
       {
         "netclass": "Ground",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Five_Volt",
+        "pattern": "+5V"
       }
     ]
   },
@@ -654,6 +658,10 @@
     [
       "0adc2254-cd48-4ec0-9f09-a12e153bb05b",
       "STORAGE"
+    ],
+    [
+      "11919705-866a-42ba-a5dc-d84e4b5dcebc",
+      "PCIe"
     ]
   ],
   "text_variables": {}
